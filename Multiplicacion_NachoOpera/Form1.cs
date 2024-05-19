@@ -11,6 +11,10 @@ using Dll_NachoOpera;
 
 namespace Multiplicacion_NachoOpera
 {
+// Aaliyah Gomez Romero
+// 02/04/24
+// Nacho Opera dll con multiplicacion
+    
     public partial class Frm_multiplicacion : Form
     {
         public Frm_multiplicacion()
